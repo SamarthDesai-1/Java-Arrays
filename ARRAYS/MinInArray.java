@@ -1,5 +1,3 @@
-package ARRAYS;
-
 public class MinInArray {
 
     public static void main(String[] args) {

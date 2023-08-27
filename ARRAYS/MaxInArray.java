@@ -1,5 +1,3 @@
-package ARRAYS;
-
 public class MaxInArray {
 
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package ARRAYS;
-
 public class PrintAllSubArrays {
     
     public static void main(String[] args) {
